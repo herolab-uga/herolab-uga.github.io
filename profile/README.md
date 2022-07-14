@@ -1,8 +1,11 @@
-## Hi there 👋
+## Welcome to HeRoLab at UGA
 
 HeRoLab - Heterogeneous Robotics Research Lab at the University of Georgia
-More information: http:/hero.uga.edu
+
+Web: http://hero.uga.edu
+
 Contact: hero at uga dot edu
+
 
 Welcome to the Heterogeneous Robotics (HeRo) Research Lab at the Department of Computer Science, University of Georgia (UGA) in Athens, GA, USA. The lab is directed by Prof. Ramviyas Parasuraman.
 
