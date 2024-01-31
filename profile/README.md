@@ -7,9 +7,9 @@ Web: https://hero.uga.edu
 Contact: hero at uga dot edu
 
 
-Welcome to the Heterogeneous Robotics (HeRo) Research Lab at the Department of Computer Science, University of Georgia (UGA) in Athens, GA, USA. The lab is directed by Prof. Ramviyas Parasuraman.
+Welcome to the Heterogeneous Robotics (HeRo) Research Lab at the School of Computing, University of Georgia (UGA) in Athens, GA, USA. The lab is directed by Prof. Ramviyas Parasuraman.
 
-HeRo lab conducts experimental and application-oriented research in heterogeneous robotics systems of varying functionalities and mobility capabilities. Specifically, the current research focus are on multi-robot systems, wireless networks, intelligent & intuitive teleoperation, human-robot interfaces, robotics applied in nuclear, radioactive, rescue, disaster, and challenging environments, and machine learning applications to multi-agent systems.
+HeRo lab conducts experimental and application-oriented research in heterogeneous robotics systems of varying functionalities and mobility capabilities. Specifically, the current research focus is on multi-robot systems with an emphasis on networked systems, intelligent & intuitive teleoperation, human-robot interfaces, and robotics applied in nuclear, radioactive, rescue, disaster, and challenging environments, and machine learning applications to multi-agent systems.
 
 Vision: Our vision is to capacitate autonomous heterogeneous multi-robot systems with intelligent, resilient, and robust methods for cooperation, communication, and interactions.
 
